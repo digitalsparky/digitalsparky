@@ -9,6 +9,5 @@ Donations are not necessary nor are they expected, but they are very much apprec
 
 Find me on:
 
-  - Twitter: <a href="https://twitter.com/digitalsparky" rel="me">@digitalsparky</a>
   - Mastodon: <a href="https://m.digitalsparky.com/@matt" rel="me">https://m.digitalsparky.com/@matt (@matt@digitalsparky.com)</a>
   
